@@ -1,6 +1,7 @@
 package nl.tudelft.jpacman.board;
 
 
+
 /**
  * A top-down view of a matrix of {@link Square}s.
  *
